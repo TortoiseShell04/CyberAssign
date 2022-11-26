@@ -30,9 +30,9 @@ namespace App
 
 
             // SHARED KEYS
-            ulong kAB = (ulong) Math.Pow(yB , xA) % q;
+            System.Numerics.BigInteger kAB =  (System.Numerics.BigInteger)Math.Pow(yB , xA) % q;
 
-            ulong kBA = (ulong) Math.Pow(yA , xB) % q;
+            System.Numerics.BigInteger kBA =  (System.Numerics.BigInteger)Math.Pow(yA , xB) % q;
 
             // CONSOLE OUTPUT
             Console.WriteLine(kAB);
