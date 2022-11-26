@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CyberAssign/1.0.0": {
+        "runtime": {
+          "CyberAssign.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CyberAssign/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

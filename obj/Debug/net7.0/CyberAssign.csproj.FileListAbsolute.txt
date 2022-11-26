@@ -1,0 +1,15 @@
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.csproj.AssemblyReference.cache
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.AssemblyInfoInputs.cache
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.AssemblyInfo.cs
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.csproj.CoreCompileInputs.cache
+C:\Users\dylan\CyberAssign\bin\Debug\net7.0\CyberAssign.exe
+C:\Users\dylan\CyberAssign\bin\Debug\net7.0\CyberAssign.deps.json
+C:\Users\dylan\CyberAssign\bin\Debug\net7.0\CyberAssign.runtimeconfig.json
+C:\Users\dylan\CyberAssign\bin\Debug\net7.0\CyberAssign.dll
+C:\Users\dylan\CyberAssign\bin\Debug\net7.0\CyberAssign.pdb
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.dll
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\refint\CyberAssign.dll
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.pdb
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\CyberAssign.genruntimeconfig.cache
+C:\Users\dylan\CyberAssign\obj\Debug\net7.0\ref\CyberAssign.dll
