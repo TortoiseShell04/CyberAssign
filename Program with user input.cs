@@ -1,9 +1,9 @@
 ﻿using System;
 namespace App
 {
-    class App
+    public class UserIn
     {
-        static void Main(string[] args)
+        public static void userIn()
         {
 
             // SHARED PUBLIC ELEMENTS
@@ -35,8 +35,8 @@ namespace App
             System.Numerics.BigInteger kBA =  (System.Numerics.BigInteger)Math.Pow(yA , xB) % q;
 
             // CONSOLE OUTPUT
-            Console.WriteLine(kAB);
-            Console.WriteLine(kBA);
+            Console.WriteLine($"Kab = {kAB}");
+            Console.WriteLine($"Kba = {kBA}");
 
         }
     }

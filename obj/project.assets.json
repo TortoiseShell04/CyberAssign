@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dylan\\CyberAssign\\CyberAssign.csproj",
+      "projectUniqueName": "C:\\Users\\dylan\\CyberAssign\\CyberAssign\\CyberAssign.csproj",
       "projectName": "CyberAssign",
-      "projectPath": "C:\\Users\\dylan\\CyberAssign\\CyberAssign.csproj",
+      "projectPath": "C:\\Users\\dylan\\CyberAssign\\CyberAssign\\CyberAssign.csproj",
       "packagesPath": "C:\\Users\\dylan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dylan\\CyberAssign\\obj\\",
+      "outputPath": "C:\\Users\\dylan\\CyberAssign\\CyberAssign\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dylan\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,9 +1,9 @@
 ﻿using System;
 namespace App
 {
-    class App
+    public class RanGen
     {
-        static void Main(string[] args)
+        public static void ranGen()
         {
 
             // SHARED PUBLIC ELEMENTS
@@ -22,7 +22,10 @@ namespace App
 
             // PUBLIC KEYS
             long yA = (long) Math.Pow(a , xA) % q;
+            Console.WriteLine($"Ya = {yA}");
+
             long yB = (long) Math.Pow(a , xB) % q;
+            Console.WriteLine($"Yb = {yB}");
 
 
             // SHARED KEYS
@@ -33,8 +36,8 @@ namespace App
             kBA = Math.Abs(kBA);
 
             // CONSOLE OUTPUT
-            Console.WriteLine(kAB);
-            Console.WriteLine(kBA);
+            Console.WriteLine($"Kab = {kAB}");
+            Console.WriteLine($"Kba = {kBA}");
 
         }
     }
